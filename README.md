@@ -1,6 +1,10 @@
 # Student Result Management System
 
 A console application written in Python for managing student records, subject scores, grades and reports. Data is saved to a JSON file so it persists between runs.
+Author: Adamu Shuaib Adamu
+Matric No: 24/SCI01/002
+Department: Computer Science
+GitHub: adamushuaib
 
 ## Requirements
 
